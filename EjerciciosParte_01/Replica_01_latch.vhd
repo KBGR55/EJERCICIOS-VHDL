@@ -1,6 +1,5 @@
 ----------------------------------------------------------------------------------
 -- Create Date:    15:23:31 07/06/2022 
--- Design Name: 
 -- Module Name:    Replica_01_latch - Behavioral 
 -- Karen Brigith Gonzaga Rivas
 ----------------------------------------------------------------------------------
@@ -17,4 +16,3 @@ architecture Behavioral of Replica_01_latch is
 begin
 	z <= x when (control= '1');
 end Behavioral;
-
