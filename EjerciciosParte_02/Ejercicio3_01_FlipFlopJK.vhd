@@ -20,7 +20,7 @@ begin
     begin
 	 if rising_edge (clk) then
             if j = '0' and k = '0' then
-               qAux <= qAux
+               qAux <= qAux;
             elsif j = '0' and k = '1' then
                qAux <= '0';
             elsif j = '1' and k = '0' then
