@@ -1,0 +1,11 @@
+EN amd2909 NULL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/amd2909.vhd sub00/vhpl09 1659482746
+AR replica04_stack_4bits arq_stack C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica04_stack_4bits.vhd sub00/vhpl07 1659482743
+AR replica03_contador_microprograma arq_mpc C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica03_contador_microprograma.vhd sub00/vhpl05 1659482741
+AR replica02_multiplexor_4bits arq_mux4 C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica02_multiplexor_4bits.vhd sub00/vhpl03 1659482745
+EN replica03_contador_microprograma NULL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica03_contador_microprograma.vhd sub00/vhpl04 1659482740
+PH replica05_componentes_secuenciador NULL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica05_componentes_secuenciador.vhd sub00/vhpl08 1659482737
+EN replica04_stack_4bits NULL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica04_stack_4bits.vhd sub00/vhpl06 1659482742
+EN replica02_multiplexor_4bits NULL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica02_multiplexor_4bits.vhd sub00/vhpl02 1659482744
+AR replica01_registro_r arq_regr C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica01_registro_R.vhd sub00/vhpl01 1659482739
+EN replica01_registro_r NULL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica01_registro_R.vhd sub00/vhpl00 1659482738
+AR amd2909 behavioral C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/amd2909.vhd sub00/vhpl10 1659482747

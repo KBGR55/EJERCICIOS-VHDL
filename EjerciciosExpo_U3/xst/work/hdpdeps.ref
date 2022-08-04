@@ -1,0 +1,45 @@
+V3 25
+FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/amd2909.vhd 2022/08/02.18:25:34 P.20131013
+EN work/amd2909 1659482746 \
+      FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/amd2909.vhd \
+      PB ieee/std_logic_1164 1381692176 \
+      PH work/Replica05_componentes_secuenciador 1659482737
+AR work/amd2909/Behavioral 1659482747 \
+      FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/amd2909.vhd \
+      EN work/amd2909 1659482746 CP Replica01_registro_R \
+      CP Replica03_contador_microprograma CP Replica04_stack_4bits \
+      CP Replica02_multiplexor_4bits
+FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica01_registro_R.vhd 2022/07/28.15:46:48 P.20131013
+EN work/Replica01_registro_R 1659482738 \
+      FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica01_registro_R.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Replica01_registro_R/arq_regR 1659482739 \
+      FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica01_registro_R.vhd \
+      EN work/Replica01_registro_R 1659482738
+FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica02_multiplexor_4bits.vhd 2022/07/28.15:52:24 P.20131013
+EN work/Replica02_multiplexor_4bits 1659482744 \
+      FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica02_multiplexor_4bits.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Replica02_multiplexor_4bits/arq_mux4 1659482745 \
+      FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica02_multiplexor_4bits.vhd \
+      EN work/Replica02_multiplexor_4bits 1659482744
+FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica03_contador_microprograma.vhd 2022/07/28.16:07:02 P.20131013
+EN work/Replica03_contador_microprograma 1659482740 \
+      FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica03_contador_microprograma.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Replica03_contador_microprograma/arq_mpc 1659482741 \
+      FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica03_contador_microprograma.vhd \
+      EN work/Replica03_contador_microprograma 1659482740
+FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica04_stack_4bits.vhd 2022/07/28.16:21:19 P.20131013
+EN work/Replica04_stack_4bits 1659482742 \
+      FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica04_stack_4bits.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Replica04_stack_4bits/arq_stack 1659482743 \
+      FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica04_stack_4bits.vhd \
+      EN work/Replica04_stack_4bits 1659482742
+FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica05_componentes_secuenciador.vhd 2022/07/28.17:00:45 P.20131013
+PH work/Replica05_componentes_secuenciador 1659482737 \
+      FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica05_componentes_secuenciador.vhd \
+      PB ieee/std_logic_1164 1381692176 CD Replica01_registro_R \
+      CD Replica03_contador_microprograma CD Replica04_stack_4bits \
+      CD Replica02_multiplexor_4bits

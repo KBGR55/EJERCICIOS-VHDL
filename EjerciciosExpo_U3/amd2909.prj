@@ -1,0 +1,6 @@
+vhdl work "Replica05_componentes_secuenciador.vhd"
+vhdl work "Replica04_stack_4bits.vhd"
+vhdl work "Replica03_contador_microprograma.vhd"
+vhdl work "Replica02_multiplexor_4bits.vhd"
+vhdl work "Replica01_registro_R.vhd"
+vhdl work "amd2909.vhd"
