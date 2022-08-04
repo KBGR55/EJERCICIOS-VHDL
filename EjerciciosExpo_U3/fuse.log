@@ -1,0 +1,18 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/TB_Stack_isim_beh.exe -prj C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/TB_Stack_beh.prj work.TB_Stack 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/Replica04_stack_4bits.vhd" into library work
+Parsing VHDL file "C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/TB_Stack.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture arq_stack of entity Replica04_stack_4bits [replica04_stack_4bits_default]
+Compiling architecture behavior of entity tb_stack
+Time Resolution for simulation is 1ps.
+Compiled 5 VHDL Units
+Built simulation executable C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/TB_Stack_isim_beh.exe
+Fuse Memory Usage: 28528 KB
+Fuse CPU Usage: 327 ms

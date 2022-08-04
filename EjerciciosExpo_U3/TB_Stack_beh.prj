@@ -1,0 +1,2 @@
+vhdl work "Replica04_stack_4bits.vhd"
+vhdl work "TB_Stack.vhd"

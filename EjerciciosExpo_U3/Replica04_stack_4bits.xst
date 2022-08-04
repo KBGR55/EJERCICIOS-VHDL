@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/xst"
+elaborate
+-ifn Replica04_stack_4bits.prj
+-ifmt mixed

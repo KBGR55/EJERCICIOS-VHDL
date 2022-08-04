@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/TB_Stack_isim_beh.exe" -prj "C:/Users/K.G/Documents/ProgramasIse/EjerciciosExpo_U3/TB_Stack_beh.prj" "work.TB_Stack" 
