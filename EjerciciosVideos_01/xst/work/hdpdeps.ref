@@ -1,0 +1,22 @@
+V3 9
+FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosVideos/ALU_4BITS.vhd 2022/06/19.21:19:59 P.20131013
+EN work/ALU_4BITS 1655691619 \
+      FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosVideos/ALU_4BITS.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ALU_4BITS/Behavioral 1655691620 \
+      FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosVideos/ALU_4BITS.vhd \
+      EN work/ALU_4BITS 1655691619
+FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosVideos/ALU_8BITS.vhd 2022/06/19.14:32:16 P.20131013
+EN work/ALU_8BITS 1655667903 \
+      FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosVideos/ALU_8BITS.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/ALU_8BITS/RTL 1655667904 \
+      FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosVideos/ALU_8BITS.vhd \
+      EN work/ALU_8BITS 1655667903
+FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosVideos/Memoria_RAM.vhd 2022/06/19.15:32:29 P.20131013
+EN work/Memoria_RAM 1655670757 \
+      FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosVideos/Memoria_RAM.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/Memoria_RAM/Behavioral 1655670758 \
+      FL C:/Users/K.G/Documents/ProgramasIse/EjerciciosVideos/Memoria_RAM.vhd \
+      EN work/Memoria_RAM 1655670757
