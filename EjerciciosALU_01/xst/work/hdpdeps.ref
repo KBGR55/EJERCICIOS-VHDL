@@ -1,0 +1,6 @@
+V3 3
+FL C:/Users/K.G/Documents/ProgramasIse/ALU/ALU.vhd 2022/06/22.09:49:03 P.20131013
+EN work/ALU 1655909351 FL C:/Users/K.G/Documents/ProgramasIse/ALU/ALU.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/ALU/Behavioral 1655909352 \
+      FL C:/Users/K.G/Documents/ProgramasIse/ALU/ALU.vhd EN work/ALU 1655909351
